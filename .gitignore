@@ -4,3 +4,4 @@ malimg_paper_dataset_imgs
 *.npy
 y_val.txt
 /model
+lab7.ipynb
